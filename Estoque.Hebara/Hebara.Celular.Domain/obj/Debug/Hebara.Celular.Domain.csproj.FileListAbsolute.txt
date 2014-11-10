@@ -1,0 +1,5 @@
+c:\users\daniel.porto\documents\visual studio 2013\Projects\Hebara.Celular.Domain\Hebara.Celular.Domain\bin\Debug\Hebara.Celular.Domain.dll
+c:\users\daniel.porto\documents\visual studio 2013\Projects\Hebara.Celular.Domain\Hebara.Celular.Domain\bin\Debug\Hebara.Celular.Domain.pdb
+c:\users\daniel.porto\documents\visual studio 2013\Projects\Hebara.Celular.Domain\Hebara.Celular.Domain\obj\Debug\Hebara.Celular.Domain.dll
+c:\users\daniel.porto\documents\visual studio 2013\Projects\Hebara.Celular.Domain\Hebara.Celular.Domain\obj\Debug\Hebara.Celular.Domain.pdb
+c:\users\daniel.porto\documents\visual studio 2013\Projects\Hebara.Celular.Domain\Hebara.Celular.Domain\obj\Debug\Hebara.Celular.Domain.csprojResolveAssemblyReference.cache
